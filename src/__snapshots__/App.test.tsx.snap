@@ -1,0 +1,23 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`MyComponent should render correctly in "debug" mode 1`] = `
+<div
+  className="App"
+>
+  <h2>
+    This is a calculator
+  </h2>
+  <Calculator />
+</div>
+`;
+
+exports[`MyComponent should render correctly when rendered 1`] = `
+<div
+  className="App"
+>
+  <h2>
+    This is a calculator
+  </h2>
+  <Calculator />
+</div>
+`;
